@@ -1,5 +1,7 @@
-# Ubitunedec
-Ubitunedec is a program for decoding and exporting the .SPK audio files found in Ubisoft game .DAT files. Essentially the program can play back and decode sound and music encoded into the game files. 
+# Ubitunedec/DecUbiSnd
+Ubitunedec, or DecUbiSnd, is a program for decoding and exporting the .SPK audio files found in Ubisoft game .DAT files. Essentially the program can play back and decode sound and music encoded into the game files. 
+## Download
+To download the GUI version (Windows only), please go to https://github.com/beawy/Ubitunedec/releases/latest and download the .zip file marked GUI.
 ## Features
 - Can import files by large dats such as "fc3_main_english.dat" and pull up all of the sound files within the game (character voices, music, speaking and dialog)
 - Can splice all audio together into a WAV file, as well as export individually
@@ -15,3 +17,5 @@ Run the .exe file in the GUI folder. Make sure all the .dlls are in the same fol
 - A feature that uses an AI to sort out music from character voices, knowing what the characters are and what they are saying to make it easier for the user to not have to painfully sort through the files.
 - Exporting in MP3, OGG, FLAC and M4A formats.
 - Having the program include sound files from most Ubisoft games (this could be a copyright issue).
+## Licensing
+Please use however you'd like, although credit me if you can. I don't recieve royalties, this is open source software.
